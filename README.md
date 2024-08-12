@@ -2,7 +2,14 @@ README
 ===
 
 ###### This is markdown practice file:)
-###### How to use markdown... 
+###### How to use markdown...
+
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
 
 ## _Lists_
 1. First List
@@ -50,8 +57,15 @@ function foo() {
 ```python
 print("hello world")
 ```
+## Table
 
-## Where to use**MARKDOWN**
+header|header|header|header
+---|---|---|---
+cell|cell|cell|cell
+cell|cell|cell|cell
+cell|cell|cell|cell
+
+## Where to use **MARKDOWN**
 1. GitHub
 2. Discord
 3. Velog
